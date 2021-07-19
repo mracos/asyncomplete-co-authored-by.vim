@@ -2,7 +2,7 @@ Co-authored-by (git authors*) completion source for [asyncomplete.vim](https://g
 
 > * Lists people that have commited to the current repository in the `Name <email@example.org>` format
 
-![screenshot of asyncomplete in action](./github/screenshot.png)
+![screenshot of asyncomplete in action](.github/screenshot.png)
 
 :warning: &nbsp; Not used anymore since I started using [nvim-compe](https://github.com/hrsh7th/nvim-compe) :warning:
 
